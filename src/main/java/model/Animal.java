@@ -10,4 +10,8 @@ public abstract class Animal {
         System.out.println("Animal eat");
     }
 
+    public  void  move(){
+        System.out.println("Run");
+    }
+
 }
